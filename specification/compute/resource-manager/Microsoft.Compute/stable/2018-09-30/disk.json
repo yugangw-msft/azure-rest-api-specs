@@ -1177,7 +1177,6 @@
         "access": {
           "type": "string",
           "enum": [
-            "None",
             "Read",
             "Write"
           ],
